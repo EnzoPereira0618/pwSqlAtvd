@@ -59,15 +59,6 @@ public function up()
 php artisan migrate
 ```
 
-
-## 📷 Capturas de tela
-
-**Instalação do Laravel**
-![Instalação do Laravel](docs/instalacao_laravel.png)
-
-**Execução da Migration**
-![Execução da Migration](docs/migration_laravel.png)
-
 ## 📜 Autor
 
 * **Enzo Pereira - 3°DS**
